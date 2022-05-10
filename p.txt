@@ -1,0 +1,56 @@
+<html><head><title>Hacked By Raffake</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="Mastah Is ilusions">
+<meta name="description" content="Raflifake">
+<meta property="og:description" content="Aku Akan Kembali">
+<meta property="og:site_name" content="Hacked By Raffake">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://i.ibb.co/8Xr6b0x/20210412-025300.jpg">
+<meta name="copyright" content="Hacking">
+<meta name="theme-color" content="#000">
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<style type="text/css">body,a:hover{cursor:url(http://cur.cursors-4u.net/symbols/sym-1/sym46.cur),progress!important;}</style>
+<style type="text/css">
+.banner1,.banner2{display:show;}.banner1,.banner2{-moz-box-sizing:border-box;}.banner2,.banner1{box-sizing:border-box;}.banner1{background:url("https://e.top4top.io/p_2034l4sku1.jpg");}.banner1{background-position:center;}.banner1{background-repeat:no-repeat;}.banner1{background-size:2.291666667in;}.banner1,.banner2{width:165pt;}.banner1,.banner2{height:220px;}.banner1,.banner2{padding-left:2.5in;}.banner2{background:url("https://b.top4top.io/p_20803jxau0.gif");}.banner2{background-position:center;}.banner2{background-repeat:no-repeat;}.banner2{background-size:165pt;}[class~=warna1]{background-color:white;}[class~=warna1]{color:#000;}[class~=warna2]{background-color:black;}[class~=warna2]{color:#fff;}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+var counter = 1,
+    int = setInterval(function(){
+    $("img").attr("class", "banner" + counter);
+    $("body").attr("class", "warna" + counter);
+    if (counter === 2){
+        counter = 1;
+    } else {
+        counter++;
+    }
+}, 1000);
+function play() {
+    var audio = document.getElementById("audio");
+    audio.play();
+    }
+    window.onbeforeunload = function (e) {
+  console.log(e);
+    return 'Raffake Was Here :)';
+};
+        </script>
+<!-- https://c.top4top.io/p_2090k2u2d0.jpeg
+https://b.top4top.io/p_20803jxau0.gif
+https://i.imgur.com/wxCkAAa.gif-->
+</head><body oncontextmenu="procreate();play(); return false;" onkeydown="procreate();play(); return false;" onmousedown="procreate();play(); return false;" onclick="procreate();play(); return false" onresize="procreate();play();" onload="playAudio();play();" id="gabut" class="warna2" text="black" bgcolor="white">
+<center><br><br><font size="2" face="courier">- Manusia Idiot Team -</font><br><br>
+  <div class="header">
+<img class="banner2" src="https://b.top4top.io/p_20803jxau0.gif" id="imgku" width="220" height="220">
+</div><br>
+<font face="courier">Defaced? By <font class="wkwk" color="red"><b>Raffake</b></font><br><font size="2" color="gray"><i>
+  <font>Security? that just an illusions</font></i>
+  	<audio id="myAudio" autoplay="" loop="">
+<source src="https://h.top4top.io/m_2076y72os0.mp3">
+</audio></font>
+<br><br>
+<font size="2" face="courier"><b>Greetz :<br> <i></i></b><i>Unknown45 - ./Fell Ganns - Chemod-77 - Xolots404 - Shelldon - Erza Julian - Mr.J0N3$$ - Mr.Arianda - Array - Micin - Xyp3r2667 - Devil_Star - ./0lleXploit-1307 - ./Localc0de-07  - ./meicookies - ./Pactrik-Star - L4N4NG_4K1R4 - KAKEGURAI - ./Traccert - Reapers - Mr.10 - PieterX2202 - Mr.Itachi - X-him - ChezXploit - ObitoGanz - And You
+</i><br><small></small></font><small><br><br><font size="1" color="#383333">loktuantersakiti@protonmail.com</font></small></font></center><font face="courier"><small>
+    <center>
+    <script>
+</script></center></small></font></body></html>
